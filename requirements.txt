@@ -1,0 +1,6 @@
+Python3
+Typer (CLI framework)
+SQLite3
+Pathlib
+Datetime
+
